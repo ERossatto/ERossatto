@@ -1,4 +1,7 @@
-### Hi there 👋
+I am a software developer who loves to study
+new technologies and have a passion for
+creating clean, readable and high performing
+codes.
 
 <!--
 **ERossatto/ERossatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
